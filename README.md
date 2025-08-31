@@ -24,8 +24,8 @@ Meu foco é desenvolver soluções eficientes, acessíveis e bem estruturadas, s
 
 <div>
     <a href = "https://github.com/Gabri1lly">
-    <img height="180cm" src = "https://github-readme-stats.vercel.app/api?username=Gabri1lly&show_icons=true&theme=radical"/>
-    <img height="180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabri1lly&layout=compact&theme=radical"/>
+    <img height="160cm" src = "https://github-readme-stats.vercel.app/api?username=Gabri1lly&show_icons=true&theme=radical"/>
+    <img height="160cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabri1lly&layout=compact&theme=radical"/>
 </div>
       
   ##
